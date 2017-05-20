@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\AGE\AGE\bin\Debug\AGE.exe.config
+d:\documents\visual studio 2015\Projects\AGE\AGE\bin\Debug\AGE.exe
+d:\documents\visual studio 2015\Projects\AGE\AGE\bin\Debug\AGE.pdb
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.g.resources
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.exe
+d:\documents\visual studio 2015\Projects\AGE\AGE\obj\Debug\AGE.pdb
