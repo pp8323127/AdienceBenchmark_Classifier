@@ -52,7 +52,9 @@ namespace AGE
                         //string[] files = Directory.GetFiles(path, "*.jpg");
                         //MessageBox.Show(files[0]);
 
-                        string search = "*" + strs[1].ToString() + "*";
+                        string search = "landmark_aligned_face." + strs[2].ToString() + "." + strs[1].ToString();
+                        
+                        //landmark_aligned_face.2282.11597935265_29bcdfa4a5_o
                         //MessageBox.Show(search);
                         foreach (var fi in di.GetFiles(search))
                         {
